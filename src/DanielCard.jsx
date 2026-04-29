@@ -1,4 +1,5 @@
 import React from 'react'
+import './DanielCard.css'
 
 const DanielCard = () => {
   return (
